@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is the document object model. this model is tree structure that houses all html elements in the document window
+
 2. What is an event?
+
+function that is called for user input 
 
 3. What is an event listener?
 
+DOM method that monitors for the user input
+
 4. Why would we convert a NodeList into an Array?
 
+so that we have access to the array methods
+
 5. What is a component?
+
+code that can be used multipel times.
 
 ### Git Set up
 
